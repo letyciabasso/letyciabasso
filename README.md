@@ -1,12 +1,14 @@
-## Hi! I'm Letycia
+## Hi! 👋 I'm Letycia
 
-- 🔭 I’m currently working on functional genomics
-- 😄 Pronouns: she/her
+- 🎓 I'm a Ph.D. Candidate in Genetics and Plant Breeding at ESALQ/USP, Brazil
+- 🔭 I’m currently working on functional genomics of plants
+- 📚 I'm also studing data science and project management
+- 😄 My pronouns are she/her
 
 <div align="center">
   <a href="https://github.com/letyciabasso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letyciabasso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyciabasso&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=letyciabasso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyciabasso&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 </div>
