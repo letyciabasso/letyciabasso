@@ -1,7 +1,7 @@
 ## Hi! 👋 I'm Letycia
 
 - 🎓 I'm a Ph.D. Candidate in Genetics and Plant Breeding at ESALQ/USP, Brazil
-- 🖥️ I'm adventuring the frontiers of Bioinformartics and 🌱 Plant breeding 
+- 🖥️ I'm adventuring in the frontiers of Bioinformartics and 🌱 Plant breeding 
 - 📚 I'm also studing data science and project management
 - 😄 My pronouns are she/her
 
