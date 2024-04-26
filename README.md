@@ -1,9 +1,10 @@
 ## Hi! 👋 I'm Letycia
 
-- 🎓 I'm a Ph.D. Candidate in Genetics and Plant Breeding at ESALQ/USP, Brazil
-- 🖥️ I'm adventuring in the frontiers of Bioinformartics and 🌱 Plant breeding 
-- 📚 I'm also studing data science and project management
-- 😄 My pronouns are she/her
+- 🎓 Ph.D. in Genetics and Plant Breeding
+- 🖥️ Adventuring in the frontiers of Bioinformatics and Plant breeding 
+- 📚 Data-driven researcher
+- 📝 Soft-heart writer on my free time
+- 😄 Pronouns: she/her
 
 <div>
   <a href="https://github.com/letyciabasso">
